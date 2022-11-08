@@ -16,7 +16,7 @@ function App() {
 //   },[socket])
   return (
     <div className="App">
-      <h1>Hello React</h1>
+      <h1>Hello Santhosh React </h1>
       <input placeholder='Message......'/>
       <button>Send</button>
     </div>
